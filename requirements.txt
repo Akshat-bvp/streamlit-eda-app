@@ -1,8 +1,7 @@
 streamlit
 pandas
-seaborn
 matplotlib
 plotly
+scikit-learn
 ydata-profiling
-streamlit-pandas-profiling
 jinja2
